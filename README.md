@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChanonBorg
-- 👀 I’m interested in C++, python, pytorch
+- 👀 I’m interested in Java, C++, python, pytorch
 - 🌱 I’m currently learning C++, python, pytorch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dborgstroem@gmail.com
